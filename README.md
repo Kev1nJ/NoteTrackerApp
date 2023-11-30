@@ -5,6 +5,8 @@
 The Note Taker Application is designed for small business owners who need a simple and effective way to write, save, and organize their notes. This application provides a user-friendly interface to manage thoughts, ideas, and tasks efficiently.
 
 ## Features
+![image](https://github.com/Kev1nJ/NoteTrackerApp/assets/137011939/66433efb-5362-4e28-aab4-01556ea52360)
+
 
 ### Landing Page
 
