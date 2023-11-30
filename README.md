@@ -57,7 +57,7 @@ The Note Taker Application is built using a modern technology stack:
 To run the Note Taker Application locally, follow these steps:
 
 1. **Clone the Repository:**
-   - `git clone https://github.com/your-username/note-taker.git`
+   - `git clone https://github.com/Kev1nJ/NoteTrackerApp.git`
 
 2. **Navigate to the Project Directory:**
    - `cd NoteTrackerApp`
