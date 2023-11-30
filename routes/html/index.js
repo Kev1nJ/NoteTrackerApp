@@ -3,7 +3,7 @@ const path = require('path');
 const router = express.Router();
 
 // Path to the public directory
-const publicPath = path.join(__dirname, 'public');
+const publicPath = path.join(__dirname, '..', 'public');
 
 // Route to serve notes.html for GET /notes
 router.get('/notes', (req, res) => {
