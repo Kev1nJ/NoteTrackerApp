@@ -60,7 +60,7 @@ To run the Note Taker Application locally, follow these steps:
    - `git clone https://github.com/your-username/note-taker.git`
 
 2. **Navigate to the Project Directory:**
-   - `cd note-taker`
+   - `cd NoteTrackerApp`
 
 3. **Install Dependencies:**
    - `npm install`
